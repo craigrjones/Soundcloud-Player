@@ -4,7 +4,7 @@
 <p>What went well?</p>
 <ul>
 <li>It works! I'm happy with the basic functionality of the project: the music plays without issue and the playlist feature is useful.</li>
-<li>Local Storage: I believe a useful feature for this project but also gives a useful reference for using local storage in future projects.</li>
+<li>Local Storage: I believe this a very useful feature for this project but also gives me a reference for using local storage in future projects.</li>
 </ul>
 <p>What could be improved?</p>
 <ul>
